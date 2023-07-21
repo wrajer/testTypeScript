@@ -60,4 +60,5 @@ class Snake extends Animal
 
 let snake= new Snake("Ekans")
 console.log(snake);
+console.log(snake);
 console.log(snake.move());
